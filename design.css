@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(36, 36, 36, 0.75),rgba(0, 0, 34, 0.725)), url(background.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.ul{
+    width: 60%;
+    height: 20vh;
+
+}
